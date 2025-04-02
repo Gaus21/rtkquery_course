@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "name": "Ronnie Donnelly Sr.",
+      "id": 1
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Elegant Steel Mouse",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Incredible Cotton Bacon",
+      "id": 3
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=97818",
+      "id": 1
+    }
+  ]
+}
